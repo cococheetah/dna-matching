@@ -2,6 +2,9 @@ import unittest
 from main import read, longest_consecutive_str, create_list, main
 
 class TestDNAMatching(unittest.TestCase):
+    # AI attribution: Used ChatGPT 4o (accessed 2025-04-01) to learn how to write unit tests.
+    # Prompt: "How do I create unit tests in Python?"
+    # Based on the suggestion, I created these unit tests.
     
     def test_read(self):
         data = read("test.csv")
