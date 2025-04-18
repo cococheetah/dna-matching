@@ -58,3 +58,6 @@ Input dna_database: test.csv
 Input dna_sequence: TATTATTATTATAACCCTGCGCGCGCGCGATCCAGCATTAGCTAGCATCAAGATGAGATGAGATGGAATTTCGAAATGAATGAATGAATGAATGAATGAATG
 Amani
 ```
+
+## Testing
+To test the entire program or individual functions, download the complete `final_project` folder and run `test.py`.
